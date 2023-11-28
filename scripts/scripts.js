@@ -7,7 +7,7 @@ You are encouraged to use the provided naming convention for ease of review.
 */
 
 /****************** create variables ******************/
-/* create variables to hold the values for modelName and duration */
+/* create variables to hold the values for modelName and duration 123123123123123*/
 
 // INSERT YOUR CODE HERE
 modelName = document.getElementById("model-text"); 
