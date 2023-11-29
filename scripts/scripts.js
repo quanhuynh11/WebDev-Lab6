@@ -94,7 +94,7 @@ function changeDuration() {
     let durationText = document.getElementById("duration-text");
     
     let newDuration = prompt("Enter a Duration");
-    duration = newDuration
+    duration = newDuration;
     durationText.innerText = newDuration;
 
     recalculate(modelNameValue, duration);
